@@ -6,6 +6,15 @@ O artigo escolhido para este projeto é "[Cervical Cancer Risk Prediction Using 
 Learning](https://thesai.org/Downloads/Volume15No11/Paper_1-Predicting_Cervical_Cancer_Based_on_Behavioral_Risk_Factors.pdf)", que propõe um modelo de predição de risco de câncer cervical utilizando técnicas de aprendizado de máquina, com base em fatores de risco comportamentais.
 O dataset utilizado está disponível no UCI Machine Learning Repository: [Cervical Cancer Behavior Risk Dataset](https://archive.ics.uci.edu/dataset/537/cervical+cancer+behavior+risk).
 
+## Estrutura do Projeto
+```
+projeto_cancer_cervical/
+├── setup_teste.py                  # Teste de instalação e dados
+├── analise_cancer_cervical.py      # Script principal completo
+├── resultados/                     # Gráficos e resultados
+└── README.md                       # Documentação
+```
+
 ---
 
 ## Primeira Etapa: Análise Exploratória dos Dados (EDA)
